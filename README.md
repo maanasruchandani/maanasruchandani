@@ -1,4 +1,4 @@
-# 💫 About Me:
+#  About Me:
 Hi, I engineer automation and AI. Manual effort isn’t my thing.
 
 
